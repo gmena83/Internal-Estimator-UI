@@ -1,0 +1,8 @@
+{
+  "name": "ISI Command Center",
+  "description": "Production-ready Intelligent Strategy Interface (ISI) for project management, estimation, and asset generation with multi-LLM monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
